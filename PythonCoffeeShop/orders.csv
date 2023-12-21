@@ -1,0 +1,2 @@
+OrderID,CustomerID,Description,OrderDate,TotalAmount,Completed,ClerkId
+1,101,p,2023-12-19,14.0,0,1
